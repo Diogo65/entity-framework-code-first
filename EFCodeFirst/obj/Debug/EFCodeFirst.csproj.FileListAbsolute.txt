@@ -1,0 +1,12 @@
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe.config
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.exe
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EFCodeFirst.pdb
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csprojAssemblyReference.cache
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CoreCompileInputs.cache
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.csproj.CopyComplete
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.exe
+c:\users\vector\source\repos\EFCodeFirst\EFCodeFirst\obj\Debug\EFCodeFirst.pdb
