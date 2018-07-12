@@ -12,7 +12,7 @@ namespace EFCodeFirst
         {
             Cliente cli = new Cliente
             {
-                Nome = "Joel",
+                Nome = "Diogo",
                 Credito = 900,
                 Idade = 24
             };
